@@ -38,9 +38,15 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
 
+To learn more about the process of how moderators enforce the Code of Conduct, review the Moderation Policy and Requesting Moderation.
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at [http://contributor-covenant.org/version/1/4][version]
 
-[homepage]: http://contributor-covenant.org
+## Appendix A: The report@nodejs.org Alias
+
+## Note 
+
+At the current time, all email sent to the report@nodejs.org email alias is copied to all members of the Node.js TSC.
 [version]: http://contributor-covenant.org/version/1/4/
