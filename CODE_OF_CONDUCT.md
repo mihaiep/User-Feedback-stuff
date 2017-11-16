@@ -49,4 +49,3 @@ This Code of Conduct is adapted from the [Contributor Covenant][homepage], versi
 ## Note 
 
 At the current time, all email sent to the report@nodejs.org email alias is copied to all members of the Node.js TSC.
-[version]: http://contributor-covenant.org/version/1/4/
