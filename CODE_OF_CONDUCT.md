@@ -34,18 +34,13 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at report@nodejs.org. The project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at mihai.enepietrosanu@gmail.com. The project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
-
-To learn more about the process of how moderators enforce the Code of Conduct, review the Moderation Policy and Requesting Moderation.
 
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at [http://contributor-covenant.org/version/1/4][version]
 
-## Appendix A: The report@nodejs.org Alias
-
-## Note 
-
-At the current time, all email sent to the report@nodejs.org email alias is copied to all members of the Node.js TSC https://github.com/nodejs/tsc#current-members
+[homepage]: http://contributor-covenant.org
+[version]: http://contributor-covenant.org/version/1/4/
