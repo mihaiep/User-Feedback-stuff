@@ -1,1 +1,1 @@
-To contribute here please first contact @mihaiep
+To contribute here please first contact (@mihaiep)
