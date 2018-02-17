@@ -13,7 +13,6 @@
 - Tierney Cyren (@bnb - CommComm Co-Chair)
 - Michael Dawson (@mhdawson - CommComm member, TSC Chair)
 – Tracy Hinds (@hackygolucky – CommComm member, Leadership Subcommittee Chair)
-
 * End users
   - Joel Chen (@jchip WalmartLabs)
   - Bradley Farias (@bmeck GoDaddy)
@@ -30,27 +29,25 @@ Extracted from neuf-agenda labelled issues and pull requests from the user-feedb
 
 ### Invited
 * User Feedback team members
-
-        - Dan Shaw (@dshaw - User Feedback, CommComm observer)
-        - Mike Hostetler (@mikehostetler)
-        - Mihai Ene-Pietrosanu (@mihaiep, User Feedback)
-        - William Kapke (@williamkapke - CommComm, Individual Member Director)
-	- Michael Dawson (@mhdawson - User Feedback, CommComm, TSC Chair)
-        - Tierney Cyren (@bnb - User Feedback, CommComm Co-Chair)
-        - Tracy Hinds (@hackygolucky - CommComm)
-	- Greg Wallace (@gtewallace - Node.js Foundation)
-	
+   - Dan Shaw (@dshaw - User Feedback, CommComm observer)
+   - Mike Hostetler (@mikehostetler)
+   - Mihai Ene-Pietrosanu (@mihaiep, User Feedback)
+   - William Kapke (@williamkapke - CommComm, Individual Member Director)
+   - Michael Dawson (@mhdawson - User Feedback, CommComm, TSC Chair)	
+   - Tierney Cyren (@bnb - User Feedback, CommComm Co-Chair)
+   - Tracy Hinds (@hackygolucky - CommComm)
+   - Greg Wallace (@gtewallace - Node.js Foundation)	
 * End User Representatives
-	- Bradley Farias (@bmeck - GoDaddy)
-	- Mohammad Khan
-	- Tierney Cyren (Node Source)
-	- Amanda Blackburn (Profound Logic)
-	- Mittra, Partha (whisolutions)
-	- Heckmann, Aaron (Paypal)
-	- Aaron Bartell (Krengel Tech) 
-	- Matvienko Nikolay (Grid Dynamics)
-	- Jeremy Meyer (Jack Henry)
-	- Bradley Meck (GoDaddy)
+   - Bradley Farias (@bmeck - GoDaddy)
+   - Mohammad Khan
+   - Tierney Cyren (Node Source)
+   - Amanda Blackburn (Profound Logic)
+   - Mittra, Partha (whisolutions)
+   - Heckmann, Aaron (Paypal)
+   - Aaron Bartell (Krengel Tech) 
+   - Matvienko Nikolay (Grid Dynamics)
+   - Jeremy Meyer (Jack Henry)
+   - Bradley Meck (GoDaddy)
 
 **TOPIC**
 · Intro
