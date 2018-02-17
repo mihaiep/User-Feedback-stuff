@@ -7,19 +7,20 @@
 * **Previous Minutes:** https://docs.google.com/document/d/13kjBLpK3huHgCebxROpBNuUQLNyyOafaI5lOKi129Co/edit
 
 ## Present
-
 - Dan Shaw (@dshaw - User Feedback lead, CommComm member)
 - Mihai Ene-Pietrosanu (@mihaiep- User Feedback member)
 - Tierney Cyren (@bnb - CommComm Co-Chair)
 - Michael Dawson (@mhdawson - CommComm member, TSC Chair)
-– Tracy Hinds (@hackygolucky – CommComm member, Leadership Subcommittee Chair)
-* End users
+- Tracy Hinds (@hackygolucky – CommComm member, Leadership Subcommittee Chair)
+
+ **End users**
   - Joel Chen (@jchip WalmartLabs)
   - Bradley Farias (@bmeck GoDaddy)
   - Aaron Bartell (Krengel Tech) 
   - Matvienko Nikolay (Grid Dynamics)
   - Tierney Cyren (NodeSource)
-* Agenda
+  
+**Agenda**
 
 Extracted from neuf-agenda labelled issues and pull requests from the user-feedback repo prior to the meeting.
 * Introduction to the Benchmarking Working Group (WG) with @mhdawson
