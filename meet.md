@@ -20,7 +20,7 @@
   - Matvienko Nikolay (Grid Dynamics)
   - Tierney Cyren (NodeSource)
   
-**Agenda**
+## Agenda
 
 Extracted from neuf-agenda labelled issues and pull requests from the user-feedback repo prior to the meeting.
 * Introduction to the Benchmarking Working Group (WG) with @mhdawson
