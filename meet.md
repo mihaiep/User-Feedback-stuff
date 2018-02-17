@@ -3,7 +3,7 @@
 ## Links
 
 * **Recording**: https://www.youtube.com/watch?v=BTiBmW83FMY 
-* **GitHub Issue: ** https://github.com/nodejs/user-feedback/issues/27
+* **GitHub Issue:** https://github.com/nodejs/user-feedback/issues/27
 * **Previous Minutes:** https://docs.google.com/document/d/13kjBLpK3huHgCebxROpBNuUQLNyyOafaI5lOKi129Co/edit
 
 ## Present
@@ -20,33 +20,37 @@
   - Aaron Bartell (Krengel Tech) 
   - Matvienko Nikolay (Grid Dynamics)
   - Tierney Cyren (NodeSource)
-Agenda
+* Agenda
+
 Extracted from neuf-agenda labelled issues and pull requests from the user-feedback repo prior to the meeting.
-•	Introduction to the Benchmarking Working Group (WG) with @mhdawson
-•	Presentation of the Benchmarking Survey Results
-•	Detailed feedback from select attending representatives
-•	Open feedback forum
-Invited
-•	User Feedback team members
-o	Dan Shaw (@dshaw - User Feedback, CommComm observer)
-o	Mike Hostetler (@mikehostetler)
-o	Mihai Ene-Pietrosanu (@mihaiep, User Feedback)
-o	William Kapke (@williamkapke - CommComm, Individual Member Director)
-o	Michael Dawson (@mhdawson - User Feedback, CommComm, TSC Chair)
-o	Tierney Cyren (@bnb - User Feedback, CommComm Co-Chair)
-o	Tracy Hinds (@hackygolucky - CommComm)
-o	Greg Wallace (@gtewallace - Node.js Foundation)
-•	End User Representatives
-o	Bradley Farias (@bmeck - GoDaddy)
-o	Mohammad Khan
-o	Tierney Cyren (Node Source)
-o	Amanda Blackburn (Profound Logic)
-o	Mittra, Partha (whisolutions)
-o	Heckmann, Aaron (Paypal)
-o	Aaron Bartell (Krengel Tech) 
-o	Matvienko Nikolay (Grid Dynamics)
-o	Jeremy Meyer (Jack Henry)
-o	Bradley Meck (GoDaddy)
+* Introduction to the Benchmarking Working Group (WG) with @mhdawson
+* Presentation of the Benchmarking Survey Results
+* Detailed feedback from select attending representatives
+* Open feedback forum
+
+### Invited
+* User Feedback team members
+
+        - Dan Shaw (@dshaw - User Feedback, CommComm observer)
+        - Mike Hostetler (@mikehostetler)
+        - Mihai Ene-Pietrosanu (@mihaiep, User Feedback)
+        - William Kapke (@williamkapke - CommComm, Individual Member Director)
+	- Michael Dawson (@mhdawson - User Feedback, CommComm, TSC Chair)
+        - Tierney Cyren (@bnb - User Feedback, CommComm Co-Chair)
+        - Tracy Hinds (@hackygolucky - CommComm)
+	- Greg Wallace (@gtewallace - Node.js Foundation)
+	
+* End User Representatives
+	- Bradley Farias (@bmeck - GoDaddy)
+	- Mohammad Khan
+	- Tierney Cyren (Node Source)
+	- Amanda Blackburn (Profound Logic)
+	- Mittra, Partha (whisolutions)
+	- Heckmann, Aaron (Paypal)
+	- Aaron Bartell (Krengel Tech) 
+	- Matvienko Nikolay (Grid Dynamics)
+	- Jeremy Meyer (Jack Henry)
+	- Bradley Meck (GoDaddy)
 
 **TOPIC**
 · Intro
