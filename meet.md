@@ -89,7 +89,8 @@ Bradley&Joel: we have 2 months lag time on LTS
 -          Aaron: got recently 8.x, most of the platforms 6.x
 -          Nikolay: we have 8 version in production; using TurboFan Ignition boosted our performance
 -          Tierney: Is anyone actually using yarn either for dev or production?
--          Joel: Has some issues that our build generally doesn’t work well. In my testing with our real-word applications from 6 version to 8 version, we saw a 60% improvement in performance
+-          Joel: Has some issues that our build generally doesn’t work well.
+In my testing with our real-word applications from 6 version to 8 version, we saw a 60% improvement in performance
 (Survey) Q4: What is your primary use case for Node?
    	Answered 294:
    	   -back-end API services 43%
