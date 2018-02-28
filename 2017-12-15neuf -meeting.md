@@ -35,7 +35,10 @@ Notes:
 * We have user-feedback@nodejs.org. email setup.(Thank you Michael) 
 * With the Benchmarking team survey still on, we will keep the meeting on 12.29.2017 (Thank you Tierney for helping us setting the meeting)
 * Highlights from Greg Wallace, **many thanks Greg**:
-*      -Right now, we are doing the third annual user survey run by the Foundation useful for community too (beginning with 2015- around 700 responses, 2016 around 1400 responses and now the third one still running, more than 1500 responses at this time). Statistically significant as a sample.
+*      -Right now, we are doing the third annual user survey run by the Foundation useful
+for community too (beginning with 2015- around 700 responses,
+2016 around 1400 responses and now the third one still running,
+more than 1500 responses at this time). Statistically significant as a sample.
 *     -The survey is completely anonymous with the option that if you willing to be contacted by the Foundation, you may provide email address. We have a good number after each survey with good technical detail; from end-users
 *    -For the surveys closed (2015 and 2016) we need information from the responses.
  *   -Issue: in open-ended questions when we have open /free text it’s hard to identify trends, unless you are a very good in analyzing data. Polly, the researcher, recommended that wherever possible that may change into “closed questions” -that means a list a series of options to pick from. It’s very possible that a percentage will respond in a way that isn’t provided among the list we come up with, so you always must have another category. If we know the subject, you usually get 95-98% of respondents who find the options in the multiple-choice list that you provide.
