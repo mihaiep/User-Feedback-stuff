@@ -1,2 +1,3 @@
-console.log('Hello');
-console.log('Update Agenda')
+console.log('Meeting date');
+console.log('Agenda');
+console.log('Participants');
