@@ -7,7 +7,7 @@
  * Recording:https://www.youtube.com/watch?v=UwIk56lzytQ 
  * https://github.com/nodejs/user-feedback/tree/master/data/2018-02-benchmarking-wg-survey
 ## Agenda
-### Extracted from neuf-agenda labelled issues and pull requests from the user-feedback repo prior to the meeting.
+* Extracted from neuf-agenda labelled issues and pull requests from the user-feedback repo prior to the meeting.
 * Intro / Attendance
 *	Key Initiatives
  * 	2017 Benchmarking WG Survey (ref: #22)
