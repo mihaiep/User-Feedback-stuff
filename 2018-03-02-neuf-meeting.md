@@ -3,7 +3,7 @@
 ### Time Friday, 2018-03-02 at 17:00 UTC / noon ET / 11am CT / 9am PT
 ### Links
  * Minutes Doc: https://docs.google.com/document/d/1EHbxCOy-tlFAvVqO7r4n8Tu_4c6TnztfO1_dsjMrCRg/edit# 
- * Previous Minutes Doc: https://docs.google.com/document/d/1RoPPTUxR9xtZ_3NS4Z5P8mXHZrKyGz3jwGPnD9hpjlA/edit#(public session)
+ * Previous Minutes Doc: https://docs.google.com/document/d/1RoPPTUxR9xtZ_3NS4Z5P8mXHZrKyGz3jwGPnD9hpjlA/edit# 
  * Recording:https://www.youtube.com/watch?v=UwIk56lzytQ 
  * https://github.com/nodejs/user-feedback/tree/master/data/2018-02-benchmarking-wg-survey
 ## Agenda
@@ -119,7 +119,7 @@
   * We should set up a meeting to sort these specifically. (send tweets, promote).
   * Action: Set up a meeting for sorting  out Enterprise Advisory group to define, how to move forward 
 
-Next meeting and agenda: [2018-03-16](https://github.com/nodejs/user-feedback/issues/39)
+**Next meeting and agenda: [2018-03-16](https://github.com/nodejs/user-feedback/issues/39)**
  
 
 
