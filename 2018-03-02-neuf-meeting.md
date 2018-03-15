@@ -1,6 +1,6 @@
 ## 2018-03-02 User Feedback Team Meeting
 
-## Time Friday, 2018-03-02 at 17:00 UTC / noon ET / 11am CT / 9am PT
+### Time Friday, 2018-03-02 at 17:00 UTC / noon ET / 11am CT / 9am PT
 ### Links
  * Minutes Doc: https://docs.google.com/document/d/1EHbxCOy-tlFAvVqO7r4n8Tu_4c6TnztfO1_dsjMrCRg/edit# 
  * Previous Minutes Doc: https://docs.google.com/document/d/1RoPPTUxR9xtZ_3NS4Z5P8mXHZrKyGz3jwGPnD9hpjlA/edit#(public session)
