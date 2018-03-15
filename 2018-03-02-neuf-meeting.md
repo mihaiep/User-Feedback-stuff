@@ -103,12 +103,12 @@
   (I’m not a marketer) but I have some knowledge, basically the things not to do,  
   and I will be happy to look what we’re ready to send out and I might have some really good feedback
   there (eg: this question type is not what we want to use) , I would like to volunteer with that.
-* Michael>:We want to capture some external reviewers, once we get a set of questions from a particular group,
+* Michael:We want to capture some external reviewers, once we get a set of questions from a particular group,
   we’ll review them in these meetings.
 * Tierney: We need a section in Readme (in Comm-Comm we have 3 separate lists, one of the members, 
   one of the individual members and one of the emeritus we can create the same structure, 
   PR people and we will get more and more. I’ll do that and Christopher I’ll add your name.
-* Chris> Sure, add me as a reviewer. 
+* Chris: Sure, add me as a reviewer. 
 * Michael: We want to continue to ask for more participants, more tweets? Or more links? 
   Standard explanation for user feedback:  is like anybody who’s interested who use Node or not 
   using Node.Js because they’re having problems we’re interested for anybody who will give us feedback on Node.Js. 
