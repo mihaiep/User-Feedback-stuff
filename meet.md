@@ -8,5 +8,5 @@
  
 **Closing Thoughts**
 	
-## Upcoming Meetings 2018-
-*
+## Upcoming Meetings 
+
