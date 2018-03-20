@@ -155,7 +155,6 @@
    * **Enterprise Advisory group: one month from now.**     
    * **Chris is reaching out to people to attend the meeting next week.**
  
-
 **Closing Thoughts**
 - 
 
