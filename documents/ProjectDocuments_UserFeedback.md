@@ -2,4 +2,6 @@
 * **Change log**
 * **Lesson learned register**
 * **Risk register**
-* **Stakeholder register**
+* **Stakeholder register** 
+  * Comm/Comm
+  * TSC
