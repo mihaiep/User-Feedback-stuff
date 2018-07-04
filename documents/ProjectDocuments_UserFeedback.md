@@ -1,6 +1,7 @@
 * **Issue log**
 * **Change log**
 * **Lesson learned register**
+* **Docs**
 * **Risk register**
 * **Stakeholder register** 
   * Comm/Comm
