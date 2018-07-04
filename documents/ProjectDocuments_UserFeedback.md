@@ -5,4 +5,4 @@
 * **Stakeholder register** 
   * Comm/Comm
   * TSC
-  * Other user and node.js groups
+  * Other user and Node.js groups
